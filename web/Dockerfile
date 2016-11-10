@@ -19,4 +19,4 @@ WORKDIR /etc/nginx
 
 ENTRYPOINT /docker-entry.sh
 
-EXPOSE 80 443
+EXPOSE 25 80 443
